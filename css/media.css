@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* 테니스사이트 반응형 css */
+
+
+/* 화면 너비가 1241px보다 작을 때*/
+@media (max-width:1240px){
+    /* layout - 디자인 */
+    .layout .bgArea .bgInner img { margin-left:-120px; }
+
+}
