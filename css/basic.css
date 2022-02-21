@@ -52,14 +52,14 @@ header {   }
 .sliders .bg01 .mainT .nav_txt { font-size: 46px; margin-bottom: 20px; }
 .sliders .bg01 .mainT span { display: block; font-size: 40px; margin-bottom: 35px; }
 .sliders .bg01 .read { display: inline-block; color:#fff; border:2px solid #fff; padding:10px 13px; font-size: 15px; cursor: pointer;}
-.sliders .bg01 .read:hover { background: #1717175d;}
+.sliders .bg01 .read:hover { background: #000; color:#fff; border:2px solid #000;}
 
 .sliders .bg02 { height:578px; background: url('../img/main02.jpg') no-repeat; color:#fff; font-size: 35px;}
 .sliders .bg02 .mainT { position: relative;  top:290px; left:110px;  font-weight: 600;}
 .sliders .bg02 .mainT .nav_txt { font-size: 46px; margin-bottom: 20px; }
 .sliders .bg02 .mainT span { display: block; font-size: 40px; margin-bottom: 35px; }
 .sliders .bg02 .read { display: inline-block; color:#fff; border:2px solid #fff; padding:10px 13px; font-size: 15px; cursor: pointer;}
-.sliders .bg02 .read:hover { background: #1717175d;}
+.sliders .bg02 .read:hover { background: #000; color:#fff; border:2px solid #000;}
 
 
 .sliders .bg03 { height:578px; background: url('../img/main03.jpeg') no-repeat; color:#fff; font-size: 35px;}
@@ -67,7 +67,7 @@ header {   }
 .sliders .bg03 .mainT .nav_txt { font-size: 46px; margin-bottom: 20px; }
 .sliders .bg03 .mainT span { display: block; font-size: 40px; margin-bottom: 35px; }
 .sliders .bg03 .read { display: inline-block; color:#fff; border:2px solid #fff; padding:10px 13px; font-size: 15px; cursor: pointer;}
-.sliders .bg03 .read:hover { background: #1717175d;}
+.sliders .bg03 .read:hover { background: #000; color:#fff; border:2px solid #000;}
 
 
 
@@ -127,7 +127,7 @@ header {   }
 .s3Top h2 { font-size: 25px; font-weight: 400; margin-top:30px;}
 .s3Wrap { }
 .s3Wrap ul { }
-.s3Wrap li { width:26%; display: inline-block; border:1px solid #aeaeae; box-shadow: 3px 5px 8px rgba(0, 0, 0, 0.1);padding:30px 25px; margin:10px 10px 10px 13.5px; transition: 0.3s;}
+.s3Wrap li { width:26%; display: inline-block; border:1px solid #aeaeae; box-shadow: 4px 4px 2px rgba(0, 0, 0, 0.1);padding:30px 25px; margin:10px 10px 10px 13.5px; transition: 0.3s;}
 .s3Wrap li:hover { border:1px solid #004b00; }
 .s3Wrap li a{ color:#171717;}
 .s3Wrap li p { }
